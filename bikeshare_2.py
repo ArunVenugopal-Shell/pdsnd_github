@@ -24,6 +24,7 @@ def get_filters():
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
+    #4.change-2 add all weekdays
 
 
     print('-'*40)
