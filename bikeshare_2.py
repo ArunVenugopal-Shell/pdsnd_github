@@ -20,6 +20,7 @@ def get_filters():
 
 
     # get user input for month (all, january, february, ... , june)
+    #4.change-1 add all months
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
